@@ -9,4 +9,5 @@ Example project to test how to import package in Go using go modules
 * [https://ukiahsmith.com/blog/a-gentle-introduction-to-golang-modules/](https://ukiahsmith.com/blog/a-gentle-introduction-to-golang-modules/)
 
 ## Go with versions - GopherConSG 2k18
+
 * [https://www.youtube.com/watch?v=F8nrpe0XWRg](https://www.youtube.com/watch?v=F8nrpe0XWRg)
